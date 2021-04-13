@@ -4,6 +4,7 @@
 - [Mechanical](/Syringe-Pump-Demo/mechanical)
 - [Electrical](/Syringe-Pump-Demo/electrical)
 - [Code](/Syringe-Pump-Demo/code)
+- [Pictures](/Syringe-Pump-Demo/pictures)
 
 
 Specifications of the syringe pump.
