@@ -7,4 +7,7 @@
 - [Pictures](/Syringe-Pump-Demo/pictures)
 
 
-Specifications of the syringe pump.
+Specifications of the syringe pump:
+- 20 ml Syringe
+- x steps per ml
+- max flow rate of y
