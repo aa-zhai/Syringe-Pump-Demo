@@ -3,3 +3,5 @@
 [See mechanical page here](/Syringe-Pump-Demo/mechanical)
 
 [See electrical page here](/Syringe-Pump-Demo/electrical)
+
+[See code page here](/Syringe-Pump-Demo/code)
