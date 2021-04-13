@@ -15,6 +15,7 @@ Item         | Quantity
 [Linear Rod (8mm x 200mm)](https://www.mcmaster.com/6112K44/) | 1
 NEMA 17 Stepper Motor | 1
 [T-Nut and Bolt](https://www.mcmaster.com/47065T139/) | 6
+[M8 Hex Nut](https://www.mcmaster.com/90592A022/) | 1
 Stepper Motor Mount | 1
 Plunger Driver | 1
 Syringe Barrel Holder | 1
