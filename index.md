@@ -2,4 +2,4 @@
 
 [See mechanical page here](/Syringe-Pump-Demo/mechanical)
 
-[See electrical page here](/Syringe-Pump-Demo/electrial)
+[See electrical page here](/Syringe-Pump-Demo/electrical)
