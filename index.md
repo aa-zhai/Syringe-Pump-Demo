@@ -13,4 +13,5 @@ Specifications of the syringe pump:
 - max flow rate of y
 
 Why you should build your own syringe pump:
+
 Building your own syringe pump allows for you to customize it based on the application needed
