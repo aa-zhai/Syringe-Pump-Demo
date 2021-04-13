@@ -18,7 +18,7 @@ NEMA 17 Stepper Motor | 1
 Stepper Motor Mount | 1
 Plunger Driver | 1
 Syringe Barrel Holder | 1
-Syringe Tip Holder | `
+Syringe Tip Holder | 1
 
 
 
