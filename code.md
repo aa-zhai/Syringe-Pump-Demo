@@ -7,7 +7,8 @@
 
 ## Below is the code for the Arduino
 
-```// Define pin connections & motor's steps per revolution
+```
+// Define pin connections & motor's steps per revolution
 const int dirPin = 2;
 const int stepPin = 3;
 const int stepsPerRevolution = 200;
@@ -45,4 +46,5 @@ void loop()
 		delayMicroseconds(1000);
 	}
 	delay(1000); // Wait a second
-}```
+}
+```
