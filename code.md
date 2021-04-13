@@ -1,6 +1,6 @@
 # Arduino Code for Syringe Pump
 
-Below is the code for the Arduino
+## Below is the code for the Arduino
 
 ```// Define pin connections & motor's steps per revolution
 const int dirPin = 2;
