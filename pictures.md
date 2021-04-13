@@ -1,3 +1,9 @@
+- [Home](/Syringe-Pump-Demo/index)
+- [Mechanical](/Syringe-Pump-Demo/mechanical)
+- [Electrical](/Syringe-Pump-Demo/electrical)
+- [Code](/Syringe-Pump-Demo/code)
+- **[Pictures](/Syringe-Pump-Demo/pictures)**
+
 ## Pictures of Assembly
 
 ![Syringe Holder Assembly](/Syringe-Pump-Demo/Assets/PXL_20210406_150354816.jpg)
