@@ -9,8 +9,17 @@
 
 Item         | Quantity
 ------------ | -------------
-[Aluminum Extrusion (1 ft)](https://www.mcmaster.com/47065T107-47065T418/) | 1
+[Aluminum Extrusion (1ft)](https://www.mcmaster.com/47065T107-47065T418/) | 1
 [Linear Bearing (8mm)](https://www.mcmaster.com/61205K75/) | 1
+[Threaded Linear Rod (8mm x 250mm)](https://www.mcmaster.com/1078N32/) | 1
+[Linear Rod (8mm x 200mm)](https://www.mcmaster.com/6112K44/) | 1
+NEMA 17 Stepper Motor | 1
+[T-Nut and Bolt](https://www.mcmaster.com/47065T139/) | 6
+Stepper Motor Mount | 1
+Plunger Driver | 1
+Syringe Barrel Holder | 1
+Syringe Tip Holder | `
+
 
 
 ## Fusion 360 Model
