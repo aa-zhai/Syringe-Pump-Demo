@@ -1,3 +1,8 @@
+- [Home](/Syringe-Pump-Demo/index)
+- [Mechanical](/Syringe-Pump-Demo/mechanical)
+- [Electrical](/Syringe-Pump-Demo/electrical)
+- **[Code](/Syringe-Pump-Demo/code)**
+
 # Arduino Code for Syringe Pump
 
 ## Below is the code for the Arduino
