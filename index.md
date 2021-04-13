@@ -1,7 +1,9 @@
 # How to Build a Syringe Pump
 
-[See mechanical page here](/Syringe-Pump-Demo/mechanical)
+- **[Home](/Syringe-Pump-Demo/index)**
+- [Mechanical](/Syringe-Pump-Demo/mechanical)
+- [Electrical](/Syringe-Pump-Demo/electrical)
+- [Code](/Syringe-Pump-Demo/code)
 
-[See electrical page here](/Syringe-Pump-Demo/electrical)
 
-[See code page here](/Syringe-Pump-Demo/code)
+Specifications of the syringe pump.
